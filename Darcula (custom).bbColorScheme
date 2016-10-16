@@ -6,12 +6,14 @@
 	<string>hsla(0.00, 0.00, 0.17, 1.00)</string>
 	<key>DifferenceHighlightColor</key>
 	<string>hsla(0.76, 0.31, 1.00, 1.00)</string>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>hsla(0.00, 0.00, 0.20, 1.00)</string>
 	<key>InvisibleOthersColor</key>
 	<string>rgba(0.866666667, 0.031372549, 0.023529412, 1.0)</string>
 	<key>InvisibleSpacesColor</key>
 	<string>hsla(0.00, 0.00, 0.31, 1.00)</string>
 	<key>SpellingColor</key>
-	<string>rgba(1.0,	0.498039216,  0.498039216, 1.0)</string>
+	<string>hsla(0.00, 0.68, 0.74, 1.00)</string>
 	<key>com.barebones.bblm.JavaScript.error</key>
 	<string>hsla(1.00, 0.83, 0.82, 1.00)</string>
 	<key>com.barebones.bblm.JavaScript.regexp</key>
