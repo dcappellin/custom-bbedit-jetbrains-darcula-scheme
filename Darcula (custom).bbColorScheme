@@ -55,9 +55,9 @@
 	<key>com.barebones.bblm.html.anchor</key>
 	<string>hsla(0.38, 0.77, 0.46, 1.00)</string>
 	<key>com.barebones.bblm.html.attribute-name</key>
-	<string>hsla(0.08, 0.94, 0.73, 1.00)</string>
+	<string>hsla(0.00, 0.00, 0.73, 1.00)</string>
 	<key>com.barebones.bblm.html.attribute-value</key>
-	<string>hsla(0.92, 0.71, 0.78, 1.00)</string>
+	<string>hsla(0.22, 0.50, 0.76, 1.00)</string>
 	<key>com.barebones.bblm.html.image</key>
 	<string>hsla(0.54, 0.87, 0.66, 1.00)</string>
 	<key>com.barebones.bblm.indexed-symbol</key>
@@ -111,11 +111,11 @@
 	<key>com.barebones.bblm.sgml-cdata</key>
 	<string>hsla(0.00, 0.00, 0.08, 1.00)</string>
 	<key>com.barebones.bblm.sgml-decl</key>
-	<string>hsla(1.00, 0.83, 0.82, 1.00)</string>
+	<string>hsla(0.11, 0.54, 0.91, 1.00)</string>
 	<key>com.barebones.bblm.sgml-entity</key>
-	<string>hsla(1.00, 0.83, 0.82, 1.00)</string>
+	<string>hsla(0.57, 0.43, 0.75, 1.00)</string>
 	<key>com.barebones.bblm.sgml-tag</key>
-	<string>hsla(0.65, 0.77, 0.96, 1.00)</string>
+	<string>hsla(0.11, 0.54, 0.91, 1.00)</string>
 	<key>com.barebones.bblm.string</key>
 	<string>hsla(0.27, 0.34, 0.53, 1.00)</string>
 	<key>com.barebones.bblm.variable</key>
